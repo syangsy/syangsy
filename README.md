@@ -12,11 +12,11 @@ I love learning new skills and exploring my interests in CS. Taking initiative i
 
 - 👯 I'm looking to collaborate on **building ML models**
 
-- 🤝 I'm looking for help with **Learning how to create scalable, industry applicable ML products that are integrated into software systems**
+- 🤝 I'm looking for help with **learning how to create scalable, industry applicable ML products that are integrated into software systems**
 
 - 📫 How to reach me **sarahyang.sy@outlook.com**
 
-- ⚡ Fun fact **Outside of CS, I love to watch movies! Catch me at the Manor Theatre in Pittsburgh!**
+- ⚡ Fun fact: **Outside of CS, I love to watch movies! Catch me at the Manor Theatre in Pittsburgh!**
 
 - 📄 Know about my experiences **[https://docs.google.com/document/d/131D3LZ0KYFri6tEZz5Ns58Ren9E473hFPje54nap6Ro/edit?tab=t.0](https://docs.google.com/document/d/131D3LZ0KYFri6tEZz5Ns58Ren9E473hFPje54nap6Ro/edit?tab=t.0)**
 
