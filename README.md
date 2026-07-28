@@ -1,6 +1,7 @@
-# Hi 👋, I'm Sarah Yang
+# Hi 👋, I'm Sarah
 
 🎓 Sophomore at University of Pittsburgh, studying Computer Science
+
 🔭 Aspiring Machine Learning Engineer
 
 I love learning new skills and exploring my interests in CS. Taking initiative is key to growth — that's why I'm spending this summer building machine learning models at Break Through Tech. I'm now looking for an internship where I can contribute to real projects and learn from industry professionals. Got any leads? Let me know!
