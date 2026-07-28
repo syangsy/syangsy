@@ -4,7 +4,7 @@
 
 🔭 Aspiring Machine Learning Engineer
 
-I love learning new skills and exploring my interests in CS. Taking initiative is key to growth — that's why I'm spending this summer building machine learning models at Break Through Tech. I'm now looking for an internship where I can contribute to real projects and learn from industry professionals. Got any leads? Let me know!
+I love learning new skills and exploring my interests in CS. Taking initiative is key to growth — that's why I'm spending this summer building machine learning models at Break Through Tech. I'm now looking for an internship where I can contribute to real projects and learn from industry professionals. Know of any opportunities? Let me know!
 
 - 🔭 I'm currently working on **Sci-kit learn projects in Jupyter Notebook**
 
