@@ -6,11 +6,11 @@
 
 I love learning new skills and exploring my interests in CS. Taking initiative is key to growth — that's why I'm spending this summer building machine learning models at Break Through Tech. I'm now looking for an internship where I can contribute to real projects and learn from industry professionals. Got any leads? Let me know!
 
-- 🔭 I'm currently working on **Sci-kit learn ML projects in Jupyter Notebook**
+- 🔭 I'm currently working on **Sci-kit learn projects in Jupyter Notebook**
 
-- 🌱 I'm currently learning **ML fundamentals **
+- 🌱 I'm currently learning **ML fundamentals**
 
-- 👯 I'm looking to collaborate on **ML projects**
+- 👯 I'm looking to collaborate on **building ML models**
 
 - 🤝 I'm looking for help with **Learning how to create scalable, industry applicable ML products that are integrated into software systems**
 
