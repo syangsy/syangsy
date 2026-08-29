@@ -6,7 +6,7 @@ I love learning new skills and exploring my interests in CS. Taking initiative i
 
 - 🔭 I'm currently working on **Sci-kit learn projects in Jupyter Notebook**
 
-- 🌱 I'm currently learning **ML fundamental + systems programming**
+- 🌱 I'm currently learning **ML fundamentals + systems programming**
 
 - 👯 I'm looking to collaborate on **building ML models, software development**
 
