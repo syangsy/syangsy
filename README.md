@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sarah
 
-🎓 Rising Junior at University of Pittsburgh, studying Computer Science
+🎓 Junior at University of Pittsburgh, studying Computer Science
 
 🔭 Aspiring Machine Learning Engineer
 
