@@ -16,8 +16,6 @@ I love learning new skills and exploring my interests in CS. Taking initiative i
 
 - ⚡ Fun fact: **Outside of CS, I love to watch movies! Catch me at the Manor Theatre in Pittsburgh!**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/131D3LZ0KYFri6tEZz5Ns58Ren9E473hFPje54nap6Ro/edit?tab=t.0](https://docs.google.com/document/d/131D3LZ0KYFri6tEZz5Ns58Ren9E473hFPje54nap6Ro/edit?tab=t.0)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/syangsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="syangsy" height="30" width="40" /></a>
