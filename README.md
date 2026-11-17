@@ -2,11 +2,9 @@
 
 🎓 Junior at University of Pittsburgh, studying Computer Science
 
-I love learning new skills and exploring my interests in CS. Taking initiative is key to growth — that's why I'm spending this summer building machine learning models at Break Through Tech. I'm now looking for an internship where I can contribute to real projects and learn from industry professionals. Know of any opportunities? Let me know!
+I love learning new skills and exploring my interests in CS. Taking initiative is key to growth — that's why I'm spending this fall building 3D machine learning project through Break Through Tech's AI Studio. 
 
-- 🔭 I'm currently working on **Sci-kit learn projects in Jupyter Notebook**
-
-- 🌱 I'm currently learning **ML fundamentals + systems programming**
+- 🌱 I'm currently learning **ML fundamentals + systems programming (in C)**
 
 - 👯 I'm looking to collaborate on **building ML models, software development**
 
